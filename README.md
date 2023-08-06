@@ -1,2 +1,2 @@
 # clone-tabnews
-Studying with a implementation of tabnews.com.br 
+Studying with an implementation of tabnews.com.br 
